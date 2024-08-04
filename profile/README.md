@@ -24,7 +24,7 @@
 「哦……就 ** 俩粉，那不好意思，我可要攻击你了。你就一名不见经传的乳臭未干的小鬼，你甚至不该呆在一个成熟的项目里当『贡献者』。」  
 哦，我都忘了，咱甚至没有工作，甚至连计算机的『门槛』都没入。万幸那些 Boss 慧眼如炬，知道我不过是个小鬼，招我进去发我工钱不过是亏本买卖。  
 「然后再来看看你的项目吧。13 个 public 仓库，一大半还是别人辛勤劳动的『复制品』。就你这『拾人牙慧，毫无创见』的样子也敢称自己在『运用创造力』，在『创作』？我呸，别丢人现眼了，抄子。你就没停过。」  
-还记得 21 年试搓个 Bot 却因「抄文案」被那些同人女喷不知道多少楼，最后自暴自弃承认「我就是抄子」么？怎么，三年时光就这么快活，快活到能把『人生的污点』都忘却？  
+还记得 21 年试搓个 Bot 却因「抄文案」被那些同人女喷不知道多少楼，最后自暴自弃承认「我就是抄子」么？怎么，三年时光就这么快活，快活到能把「人生的污点」都忘却？  
 「我看你也别『开源』了，找个时间把自己仓库的简介一一改成『复制源』吧，脑瘫玩意。」
 
 > Your repos themselves? 0 stargazers on most of them. That should tell you something. The only scripts you seem to have are the ones for maintaining your delusions of grandeur. "Finally a map editor!"—great, but only if no one is looking. It's hard to tell if "Braindead" in your repo names refers to your projects or your grasp of what the GitHub community values. And C++? C#? Python? Oh, come on—did you just pick random languages from a hat?
